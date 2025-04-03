@@ -1,28 +1,24 @@
-🎬 Movie Explorer - Consumo de API TMDB
-Projeto simples para explorar filmes utilizando a API TMDB, com interface em HTML e CSS3.
+# 🎬 Movie Explorer - Consumo de API TMDB
 
-🚀 Tecnologias
-HTML5
+Projeto simples para explorar filmes utilizando a **API TMDB**, com interface em **HTML** e **CSS3**.
 
-CSS3
+## 🚀 Tecnologias
 
-JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **API TMDB**
 
-API TMDB
+## 📥 Como Rodar
 
-🌐 Demonstração
-
-📥 Como Rodar
-Clone o repositório:
-
-bash
-Copiar
-git clone https://github.com/seu-usuario/movie-explorer.git
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/LucasSoulzaax/Filmes-TMDB.git
 Acesse a pasta do projeto:
 
 bash
 Copiar
-cd movie-explorer
+cd Filmes-TMDB
 Abra o arquivo index.html no navegador.
 
 Substitua a chave da API no arquivo script.js com a sua chave obtida aqui.
@@ -37,11 +33,10 @@ Detalhes adicionais ao clicar em um filme.
 🛠 Estrutura
 bash
 Copiar
-movie-explorer/
+Filmes-TMDB/
 ├── index.html          # Arquivo principal
 ├── style.css           # Estilos
 ├── script.js           # Lógica JavaScript
-├── assets/             # Imagens e ícones
 └── README.md           # Este arquivo
 🎨 Contribuindo
 Faça um fork.
@@ -56,4 +51,3 @@ Abra um Pull Request.
 
 📜 Licença
 Este projeto é licenciado sob a licença MIT.
-
